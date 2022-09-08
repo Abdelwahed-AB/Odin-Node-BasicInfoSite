@@ -1,0 +1,20 @@
+{
+  "name": "odin-node-basicinfosite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdelwahed-AB/Odin-Node-BasicInfoSite.git"
+  },
+  "author": "Abd-Ab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdelwahed-AB/Odin-Node-BasicInfoSite/issues"
+  },
+  "homepage": "https://github.com/Abdelwahed-AB/Odin-Node-BasicInfoSite#readme"
+}
